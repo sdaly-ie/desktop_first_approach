@@ -10,5 +10,5 @@ HTML 5 and CSS3.
 To make the layout respond to the users enivornment, in this case desktop first setting. 
 
 With the following figurations:
-* Make a section full height
-* Remove margins and paddings from body and html element# desktop_first_approach
+* Make a section full height red in colour
+* Remove margins and paddings from body and html element
