@@ -12,3 +12,4 @@ To make the layout respond to the users enivornment, in this case desktop first 
 With the following figurations:
 * Make a section full height red in colour
 * Remove margins and paddings from body and html element
+* See all of the above changes in the main.css file scripting
